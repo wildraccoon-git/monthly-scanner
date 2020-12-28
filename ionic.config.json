@@ -1,5 +1,8 @@
 {
   "name": "monthly-scanner",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }
